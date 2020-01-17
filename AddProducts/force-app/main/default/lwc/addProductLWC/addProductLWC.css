@@ -1,0 +1,11 @@
+.slds-modal__container{
+    width: 89%;
+    max-width: 100%; 
+    overflow: hidden; 
+}
+.slds-modal__content{
+    overflow: hidden;
+}
+.tableheight{
+    height: 85%;
+}
